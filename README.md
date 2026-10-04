@@ -13,7 +13,7 @@ Managed a structured creator database to support large-scale affiliate operation
 <table>
   <tr>
     <td align="center">
-      <img src="image\wrinkle_database.png" width="100%"><br>
+      <img src="image\affiliate_database.png" width="100%"><br>
       <em>Structured creator tracking system to monitor outreach and deal status</em>
     </td>
     <td align="center">
@@ -131,7 +131,7 @@ Managed Brand’s affiliate creator community as a centralized communication and
 <table>
   <tr>
     <td align="center">
-      <img src="image\grup_juva.jpeg" width="100%"><br>
+      <img src="image\grup_affiliate.jpeg" width="100%"><br>
       <em>Campaign updates and collaboration announcements shared within the community</em>
     </td>
     <td align="center">
