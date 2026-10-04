@@ -1,8 +1,8 @@
-# Affiliate Marketing Project – JUVA
+# Affiliate Marketing Project – Beauty Brand
 
 ## Overview
 
-This repository documents my hands-on experience as an **Freelance Affiliate Specialist at JUVA**, focusing on managing large-scale creator collaborations, optimizing affiliate performance, and driving measurable GMV growth across **TikTok Shop and Tokopedia**. This portfolio highlights real operational workflows, performance analysis, and campaign execution supported by platform dashboards and internal processes.
+This repository documents my hands-on experience as an **Project Affiliate Specialist at Beauty Brand**, focusing on managing large-scale creator collaborations, optimizing affiliate performance, and driving measurable GMV growth across **TikTok Shop and Tokopedia**. This project highlights real operational workflows, performance analysis, and campaign execution supported by platform dashboards and internal processes.
 
 ---
 
@@ -126,7 +126,7 @@ This workflow ensured creator compliance, efficient sample distribution, and smo
 
 ## G. Affiliate Community Management & Engagement
 
-Managed JUVA’s affiliate creator community as a centralized communication and engagement hub.
+Managed Brand’s affiliate creator community as a centralized communication and engagement hub.
 
 <table>
   <tr>
